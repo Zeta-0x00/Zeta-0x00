@@ -19,11 +19,11 @@ I always facinated by Red Team and Exploit Development. I have a background in *
 <details>
   <summary>More about me</summary>
 
-- **Certifications**: CNSP, C3SA, CC
+- **Certifications**: ACP, CNSP, C3SA, CC
 - **Languages**: Python, C/C++, C#, Go, Shell, PowerShell, 0x86_64 ASM
 - **Focus Areas**: Red Teaming, Exploit Development, Reverse Engineering, Network Pentesting, AppSec Pentesting
 - **Currently Learning**: Advanced exploitation techniques and cloud security
-- **Reach me at**: [email](mailto:ataques_ataviado_0p@icloud.com)
+- **Reach me at**: [email](mailto:zeta_0x00.dragonfly739@passinbox.com)
 
 </details>
 <br>
